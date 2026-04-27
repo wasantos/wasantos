@@ -1,3 +1,4 @@
+<img width="1774" height="887" alt="GithubBannerAtualizado" src="https://github.com/user-attachments/assets/cab15559-1dd6-4d24-97f6-90089fdd6386" />
 ## Hi there 👋
 
 <!--
